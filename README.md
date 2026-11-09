@@ -60,3 +60,7 @@ https://qclaw.qq.com?channel=6070&share_type=invite-share&invite_code=QvyorBb5TI
 <!-- 自动更新日期：开始 -->
 最后更新时间：2026-06-29
 <!-- 自动更新日期：结束 -->
+
+## 自动化与变量说明
+
+当前仓库未检测到 .github/workflows/ 下的 GitHub Actions 工作流，也没有 Cloudflare Worker 部署配置。因此本仓库不需要配置 Cloudflare Token、Account ID 或 Worker 环境变量；脚本所需环境变量请以各脚本中的 Env(...) / 注释为准，并在青龙面板配置。
